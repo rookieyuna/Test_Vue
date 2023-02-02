@@ -14,7 +14,6 @@
       <li>230202 04:00 수정</li>
       <li>230202 04:12 수정</li>
       <li>230202 04:26 수정</li>
-
     </ul>
   </div>
 </template>
@@ -24,7 +23,7 @@ import { Options, Vue } from 'vue-class-component';
 
 @Options({
   props: {
-    msg: String
+    msg: String 
   }
 })
 export default class HelloWorld extends Vue {
