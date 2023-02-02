@@ -9,6 +9,10 @@
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript" target="_blank" rel="noopener">typescript</a></li>
     </ul>
+    <ul>
+      <li>230202 03:52 수정</li>
+      <li>230202 04:00 수정</li>
+    </ul>
   </div>
 </template>
 
